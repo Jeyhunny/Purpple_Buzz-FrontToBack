@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\Desktop\\New folder\\Purpple-FrontToBack\\FrontToBack\\FrontToBack\\FrontToBack.csproj": {}
+    "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\FrontToBack\\FrontToBack\\FrontToBack\\FrontToBack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\Desktop\\New folder\\Purpple-FrontToBack\\FrontToBack\\FrontToBack\\FrontToBack.csproj": {
+    "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\FrontToBack\\FrontToBack\\FrontToBack\\FrontToBack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\New folder\\Purpple-FrontToBack\\FrontToBack\\FrontToBack\\FrontToBack.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\FrontToBack\\FrontToBack\\FrontToBack\\FrontToBack.csproj",
         "projectName": "FrontToBack",
-        "projectPath": "C:\\Users\\Acer\\Desktop\\New folder\\Purpple-FrontToBack\\FrontToBack\\FrontToBack\\FrontToBack.csproj",
+        "projectPath": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\FrontToBack\\FrontToBack\\FrontToBack\\FrontToBack.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\Desktop\\New folder\\Purpple-FrontToBack\\FrontToBack\\FrontToBack\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\FrontToBack\\FrontToBack\\FrontToBack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",

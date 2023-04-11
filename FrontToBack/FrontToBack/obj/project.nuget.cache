@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xjZpxIx6hP296EVoWTo1OZL7zZTPMaN8PdnPJ9HwVfavNunlTHXsHdidglUiwy+GsMEE9PCZ6SimOXpGGwlxGA==",
+  "dgSpecHash": "rxBW0Ohw67lj/OPUXwAlcMvyoVGuXPpgfFIu0FymqsDpp2T/7UI6LD/WTSzHVk6nHhJ19pr9S9qGN1UxqqgZEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Acer\\Desktop\\New folder\\Purpple-FrontToBack\\FrontToBack\\FrontToBack\\FrontToBack.csproj",
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\FrontToBack\\FrontToBack\\FrontToBack\\FrontToBack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

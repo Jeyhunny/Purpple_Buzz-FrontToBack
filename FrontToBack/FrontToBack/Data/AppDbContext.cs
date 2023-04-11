@@ -30,5 +30,6 @@ namespace FrontToBack.Data
         public DbSet<Package> Packages { get; set; }
 
         public DbSet<Contact> Contacts { get; set; }
+        public object Sliders { get; internal set; }
     }
 }
